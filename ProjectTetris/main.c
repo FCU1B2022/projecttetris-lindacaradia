@@ -1,4 +1,4 @@
-//第二次俄羅斯方塊進度
+//第三次俄羅斯方塊進度
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
